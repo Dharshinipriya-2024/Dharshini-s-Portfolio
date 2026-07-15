@@ -97,7 +97,7 @@ https://github.com/Dharshinipriya-2024
 
 ## 📷 Preview
 
-<img width="100%" alt="Portfolio Preview" src="assets/img/work1.png">
+<img width="100%" alt="Portfolio Preview" src="assets/img/portfolio.png">
 
 > Replace the image above with a screenshot of your portfolio homepage.
 
@@ -105,11 +105,10 @@ https://github.com/Dharshinipriya-2024
 
 This project is open source and available under the **MIT License**.
 
----
 
 ### ⭐ If you like this project, don't forget to star the repository!
 
 
 
-(/portflio.png)
+
 
