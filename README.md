@@ -97,7 +97,7 @@ https://github.com/Dharshinipriya-2024
 
 ## 📷 Preview
 
-<img width="100%" alt="Portfolio Preview" src="assets/portfolio.png">
+<img width="100%" alt="portfolio-responsive-complete" src="/portfolio.png">
 
 > Replace the image above with a screenshot of your portfolio homepage.
 
