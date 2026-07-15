@@ -2,6 +2,10 @@
 
 Welcome to my personal portfolio website! This portfolio showcases my skills, education, projects, and contact information as an aspiring Software Developer.
 
+#Portfolio
+
+ [MY Portfolio] : dharshini-s-2026.netlify.app
+
 ## 👩‍💻 About
 
 Hi, I'm **Dharshini Priya A.L**, an Information Technology student passionate about web development and software engineering. I enjoy creating responsive, user-friendly websites and continuously learning new technologies.
