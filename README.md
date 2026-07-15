@@ -1,10 +1,7 @@
 # 🌐 Personal Portfolio Website
 
 Welcome to my personal portfolio website! This portfolio showcases my skills, education, projects, and contact information as an aspiring Software Developer.
-
-#Portfolio
-
- [MY Portfolio] : https://dharshini-s-2026.netlify.app/
+[MY Portfolio] : https://dharshini-s-2026.netlify.app/
 
 ## 👩‍💻 About
 
