@@ -1,4 +1,4 @@
-# 🌐 Personal Portfolio Website
+# 🌐 Dharshini's Portfolio Website
 
 Welcome to my personal portfolio website! This portfolio showcases my skills, education, projects, and contact information as an aspiring Software Developer.
 
