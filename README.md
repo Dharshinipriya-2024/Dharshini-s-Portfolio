@@ -4,7 +4,7 @@ Welcome to my personal portfolio website! This portfolio showcases my skills, ed
 
 #Portfolio
 
- [MY Portfolio] : dharshini-s-2026.netlify.app
+ [MY Portfolio] : https://dharshini-s-2026.netlify.app/
 
 ## 👩‍💻 About
 
