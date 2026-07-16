@@ -23,31 +23,10 @@ Welcome to my personal portfolio website! This portfolio showcases my skills, ed
 - Boxicons
 - ScrollReveal.js
 
- Folder Structure
-
-Portfolio/
-│
-├── index.html
-├── assets/
-│   ├── css/
-│   │   └── styles.css
-│   ├── js/
-│   │   └── main.js
-│   └── img/
-│       ├── me.jpg
-│       ├── images.jpeg
-│       ├── work1.png
-│       ├── work2.png
-│       └── work3.jpeg
-
-
-
-
 LinkedIn:  
 https://www.linkedin.com/in/dharshini-priya-al-1260b1315/
 
- GitHub:  
-https://github.com/Dharshinipriya-2024
+
 
 
 
