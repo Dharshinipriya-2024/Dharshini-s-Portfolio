@@ -1,4 +1,4 @@
- Dharshinipriya  Portfolio Website
+Dharshinipriya Portfolio Website
 
 Welcome to my personal portfolio website! This portfolio showcases my skills, education, projects, and contact information as an aspiring Software Developer.
 
